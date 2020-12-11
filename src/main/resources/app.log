@@ -1,0 +1,493 @@
+[DEBUG][2020-08-17 16:58:29,023][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 16:59:08,568][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 16:59:11,660][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 16:59:18,605][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:00:56,794][com.uxsino.testFileUtiles]HAHA
+DEBUG[DEBUG][2020-08-17 17:01:11,208][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:01:21,631][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:01:38,606][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:03:43,397][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:04:00,444][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:04:11,716][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:06:08,750][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:06:44,326][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:06:45,296][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:06:53,840][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:07:13,145][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:07:32,633][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:09:05,479][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:09:16,912][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:13:21,532][com.uxsino.testFileUtiles]HAHA
+[DEBUG][2020-08-17 17:14:07,364][com.uxsino.testFileUtiles]HAHA
+[ERROR][2020-08-17 17:14:07,366][com.uxsino.testFileUtiles]yousillyb
+[DEBUG][2020-08-17 17:17:10,058][com.uxsino.testFileUtiles]HAHA
+[ERROR][2020-08-17 17:17:10,061][com.uxsino.testFileUtiles]yousillyb
+[DEBUG][2020-08-17 17:17:21,582][com.uxsino.testFileUtiles]HAHA
+[ERROR][2020-08-17 17:17:21,582][com.uxsino.testFileUtiles]yousillyb
+[DEBUG][2020-08-17 17:17:57,825][com.uxsino.testFileUtiles]HAHA
+[ERROR][2020-08-17 17:17:57,826][com.uxsino.testFileUtiles]yousillyb
+[DEBUG][2020-08-17 17:18:09,339][com.uxsino.testFileUtiles]HAHA
+[ERROR][2020-08-17 17:18:09,340][com.uxsino.testFileUtiles]yousillyb
+[DEBUG][2020-08-17 17:18:46,945][com.uxsino.testFileUtiles]HAHA
+[ERROR][2020-08-17 17:18:46,945][com.uxsino.testFileUtiles]yousillyb
+[DEBUG][2020-08-17 17:19:10,976][com.uxsino.testFileUtiles]HAHA
+[ERROR][2020-08-17 17:19:10,979][com.uxsino.testFileUtiles]yousillyb
+[DEBUG][2020-08-17 17:47:19,037][com.uxsino.testFileUtiles]HAHA
+[ERROR][2020-08-17 17:47:19,039][com.uxsino.testFileUtiles]yousillyb
+[DEBUG][2020-08-17 17:49:05,922][com.uxsino.testFileUtiles]HAHA
+[ERROR][2020-08-17 17:49:05,925][com.uxsino.testFileUtiles]yousillyb
+[DEBUG][2020-08-17 17:49:12,376][com.uxsino.testFileUtiles]HAHA
+[ERROR][2020-08-17 17:49:12,378][com.uxsino.testFileUtiles]yousillyb
+[DEBUG][2020-08-24 09:29:07,682][oshi.util.platform.windows.PerfCounterWildcardQuery]Localized PhysicalDisk to PhysicalDisk
+[DEBUG][2020-08-24 09:29:08,020][oshi.hardware.platform.windows.WindowsDisplay]Initialized WindowsDisplay
+[DEBUG][2020-08-24 09:29:08,026][oshi.util.EdidUtil]Manufacurer ID: 0100000100001100
+[DEBUG][2020-08-24 09:29:08,027][oshi.util.EdidUtil]Serial number: [-31, 62, 0, 0]
+[DEBUG][2020-08-24 09:29:08,033][oshi.util.EdidUtil]Year-1990: 28
+[DEBUG][2020-08-27 18:01:07,387][oshi.util.platform.windows.PerfCounterWildcardQuery]Localized PhysicalDisk to PhysicalDisk
+[DEBUG][2020-08-27 18:01:07,634][oshi.hardware.platform.windows.WindowsDisplay]Initialized WindowsDisplay
+[DEBUG][2020-08-27 18:01:07,637][oshi.util.EdidUtil]Manufacurer ID: 0100000100001100
+[DEBUG][2020-08-27 18:01:07,638][oshi.util.EdidUtil]Serial number: [-31, 62, 0, 0]
+[DEBUG][2020-08-27 18:01:07,641][oshi.util.EdidUtil]Year-1990: 28
+[DEBUG][2020-08-31 16:31:29,441][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from URL: null
+[DEBUG][2020-08-31 16:36:17,292][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from URL: file:/D:/justForTest/target/classes/ehcache.xml
+[DEBUG][2020-08-31 16:36:17,296][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-08-31 16:36:17,545][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-08-31 16:36:17,548][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-08-31 16:36:17,557][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-08-31 16:36:17,593][net.sf.ehcache.CacheManager]Creating new CacheManager with config URL: file:/D:/justForTest/target/classes/ehcache.xml
+[DEBUG][2020-08-31 16:36:17,626][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-08-31 16:36:17,646][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:36:18,410][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:36:18,411][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:36:18,411][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:36:18,418][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:36:18,419][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:36:18,419][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:36:18,442][net.sf.ehcache.store.MemoryStore]Initialized net.sf.ehcache.store.MemoryStore for HelloWorldCache
+[DEBUG][2020-08-31 16:36:18,477][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+[DEBUG][2020-08-31 16:36:18,481][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+[DEBUG][2020-08-31 16:36:18,481][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE
+[DEBUG][2020-08-31 16:36:18,481][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE_BYTES
+[DEBUG][2020-08-31 16:36:18,482][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+[DEBUG][2020-08-31 16:36:18,482][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: REMOTE_SIZE
+[DEBUG][2020-08-31 16:36:18,482][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+[DEBUG][2020-08-31 16:36:18,493][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_GET
+[DEBUG][2020-08-31 16:36:18,494][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_PUT
+[DEBUG][2020-08-31 16:36:18,495][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_REMOVE
+[DEBUG][2020-08-31 16:36:18,495][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_GET
+[DEBUG][2020-08-31 16:36:18,496][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_PUT
+[DEBUG][2020-08-31 16:36:18,496][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_REMOVE
+[DEBUG][2020-08-31 16:36:18,497][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_COMMIT
+[DEBUG][2020-08-31 16:36:18,497][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_ROLLBACK
+[DEBUG][2020-08-31 16:36:18,498][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_RECOVERY
+[DEBUG][2020-08-31 16:36:18,499][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: CLUSTER_EVENT
+[DEBUG][2020-08-31 16:36:18,500][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: NONSTOP
+[DEBUG][2020-08-31 16:36:18,506][net.sf.ehcache.Cache]Initialised cache: HelloWorldCache
+[DEBUG][2020-08-31 16:36:18,507][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured. Skipping for 'HelloWorldCache'.
+[DEBUG][2020-08-31 16:36:18,507][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured for defaultCache. Skipping for 'HelloWorldCache'.
+[DEBUG][2020-08-31 16:37:15,868][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from URL: file:/D:/justForTest/target/classes/ehcache.xml
+[DEBUG][2020-08-31 16:37:15,871][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-08-31 16:37:15,954][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-08-31 16:37:15,958][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-08-31 16:37:15,961][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-08-31 16:37:15,980][net.sf.ehcache.CacheManager]Creating new CacheManager with config URL: file:/D:/justForTest/target/classes/ehcache.xml
+[DEBUG][2020-08-31 16:37:15,982][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-08-31 16:37:15,990][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:37:16,540][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:37:16,540][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:37:16,541][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:37:16,548][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:37:16,549][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:37:16,549][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:37:16,566][net.sf.ehcache.store.MemoryStore]Initialized net.sf.ehcache.store.MemoryStore for HelloWorldCache
+[DEBUG][2020-08-31 16:37:16,600][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+[DEBUG][2020-08-31 16:37:16,603][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+[DEBUG][2020-08-31 16:37:16,604][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE
+[DEBUG][2020-08-31 16:37:16,604][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE_BYTES
+[DEBUG][2020-08-31 16:37:16,604][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+[DEBUG][2020-08-31 16:37:16,604][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: REMOTE_SIZE
+[DEBUG][2020-08-31 16:37:16,605][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+[DEBUG][2020-08-31 16:37:16,620][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_GET
+[DEBUG][2020-08-31 16:37:16,621][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_PUT
+[DEBUG][2020-08-31 16:37:16,621][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_REMOVE
+[DEBUG][2020-08-31 16:37:16,622][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_GET
+[DEBUG][2020-08-31 16:37:16,622][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_PUT
+[DEBUG][2020-08-31 16:37:16,623][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_REMOVE
+[DEBUG][2020-08-31 16:37:16,624][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_COMMIT
+[DEBUG][2020-08-31 16:37:16,624][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_ROLLBACK
+[DEBUG][2020-08-31 16:37:16,624][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_RECOVERY
+[DEBUG][2020-08-31 16:37:16,625][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: CLUSTER_EVENT
+[DEBUG][2020-08-31 16:37:16,626][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: NONSTOP
+[DEBUG][2020-08-31 16:37:16,632][net.sf.ehcache.Cache]Initialised cache: HelloWorldCache
+[DEBUG][2020-08-31 16:37:16,633][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured. Skipping for 'HelloWorldCache'.
+[DEBUG][2020-08-31 16:37:16,633][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured for defaultCache. Skipping for 'HelloWorldCache'.
+[DEBUG][2020-08-31 16:38:43,812][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from file: .\src\main\resources\ehcache.xml
+[DEBUG][2020-08-31 16:38:43,815][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-08-31 16:38:43,880][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-08-31 16:38:43,884][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-08-31 16:38:43,887][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-08-31 16:38:43,905][net.sf.ehcache.CacheManager]Creating new CacheManager with config file: ./src/main/resources/ehcache.xml
+[DEBUG][2020-08-31 16:38:43,907][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-08-31 16:38:43,918][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:38:44,454][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:38:44,454][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:38:44,455][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:38:44,461][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:38:44,462][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:38:44,462][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:38:44,478][net.sf.ehcache.store.MemoryStore]Initialized net.sf.ehcache.store.MemoryStore for HelloWorldCache
+[DEBUG][2020-08-31 16:38:44,507][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+[DEBUG][2020-08-31 16:38:44,510][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+[DEBUG][2020-08-31 16:38:44,510][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE
+[DEBUG][2020-08-31 16:38:44,511][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE_BYTES
+[DEBUG][2020-08-31 16:38:44,511][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+[DEBUG][2020-08-31 16:38:44,511][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: REMOTE_SIZE
+[DEBUG][2020-08-31 16:38:44,512][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+[DEBUG][2020-08-31 16:38:44,524][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_GET
+[DEBUG][2020-08-31 16:38:44,525][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_PUT
+[DEBUG][2020-08-31 16:38:44,526][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_REMOVE
+[DEBUG][2020-08-31 16:38:44,526][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_GET
+[DEBUG][2020-08-31 16:38:44,526][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_PUT
+[DEBUG][2020-08-31 16:38:44,527][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_REMOVE
+[DEBUG][2020-08-31 16:38:44,527][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_COMMIT
+[DEBUG][2020-08-31 16:38:44,527][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_ROLLBACK
+[DEBUG][2020-08-31 16:38:44,528][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_RECOVERY
+[DEBUG][2020-08-31 16:38:44,528][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: CLUSTER_EVENT
+[DEBUG][2020-08-31 16:38:44,529][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: NONSTOP
+[DEBUG][2020-08-31 16:38:44,534][net.sf.ehcache.Cache]Initialised cache: HelloWorldCache
+[DEBUG][2020-08-31 16:38:44,534][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured. Skipping for 'HelloWorldCache'.
+[DEBUG][2020-08-31 16:38:44,535][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured for defaultCache. Skipping for 'HelloWorldCache'.
+[DEBUG][2020-08-31 16:39:42,650][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from file: .\src\main\resources\ehcache.xml
+[DEBUG][2020-08-31 16:39:42,656][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-08-31 16:40:17,079][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from file: .\src\main\resources\ehcache.xml
+[DEBUG][2020-08-31 16:40:17,082][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-08-31 16:40:17,153][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-08-31 16:40:17,156][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-08-31 16:40:17,159][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-08-31 16:40:17,180][net.sf.ehcache.CacheManager]Creating new CacheManager with config file: ./src/main/resources/ehcache.xml
+[DEBUG][2020-08-31 16:40:17,182][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-08-31 16:40:17,192][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:40:17,733][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:40:17,733][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:40:17,733][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:40:17,740][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:40:17,740][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:40:17,740][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:40:17,755][net.sf.ehcache.store.MemoryStore]Initialized net.sf.ehcache.store.MemoryStore for HelloWorldCache
+[DEBUG][2020-08-31 16:40:17,782][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+[DEBUG][2020-08-31 16:40:17,785][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+[DEBUG][2020-08-31 16:40:17,786][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE
+[DEBUG][2020-08-31 16:40:17,787][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE_BYTES
+[DEBUG][2020-08-31 16:40:17,788][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+[DEBUG][2020-08-31 16:40:17,788][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: REMOTE_SIZE
+[DEBUG][2020-08-31 16:40:17,789][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+[DEBUG][2020-08-31 16:40:17,802][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_GET
+[DEBUG][2020-08-31 16:40:17,804][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_PUT
+[DEBUG][2020-08-31 16:40:17,804][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_REMOVE
+[DEBUG][2020-08-31 16:40:17,805][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_GET
+[DEBUG][2020-08-31 16:40:17,805][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_PUT
+[DEBUG][2020-08-31 16:40:17,805][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_REMOVE
+[DEBUG][2020-08-31 16:40:17,806][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_COMMIT
+[DEBUG][2020-08-31 16:40:17,807][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_ROLLBACK
+[DEBUG][2020-08-31 16:40:17,807][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_RECOVERY
+[DEBUG][2020-08-31 16:40:17,808][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: CLUSTER_EVENT
+[DEBUG][2020-08-31 16:40:17,808][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: NONSTOP
+[DEBUG][2020-08-31 16:40:17,813][net.sf.ehcache.Cache]Initialised cache: HelloWorldCache
+[DEBUG][2020-08-31 16:40:17,813][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured. Skipping for 'HelloWorldCache'.
+[DEBUG][2020-08-31 16:40:17,813][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured for defaultCache. Skipping for 'HelloWorldCache'.
+[DEBUG][2020-08-31 16:40:42,965][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from file: .\src\main\resources\ehcache.xml
+[DEBUG][2020-08-31 16:40:42,968][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-08-31 16:40:43,033][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-08-31 16:40:43,036][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-08-31 16:40:43,039][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-08-31 16:40:43,060][net.sf.ehcache.CacheManager]Creating new CacheManager with config file: ./src/main/resources/ehcache.xml
+[DEBUG][2020-08-31 16:40:43,062][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-08-31 16:40:43,074][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:40:43,580][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:40:43,581][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:40:43,581][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:40:43,588][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:40:43,588][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:40:43,589][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:40:43,602][net.sf.ehcache.store.MemoryStore]Initialized net.sf.ehcache.store.MemoryStore for HelloWorldCache
+[DEBUG][2020-08-31 16:40:43,636][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+[DEBUG][2020-08-31 16:40:43,639][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+[DEBUG][2020-08-31 16:40:43,640][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE
+[DEBUG][2020-08-31 16:40:43,641][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE_BYTES
+[DEBUG][2020-08-31 16:40:43,641][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+[DEBUG][2020-08-31 16:40:43,642][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: REMOTE_SIZE
+[DEBUG][2020-08-31 16:40:43,642][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+[DEBUG][2020-08-31 16:40:43,657][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_GET
+[DEBUG][2020-08-31 16:40:43,658][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_PUT
+[DEBUG][2020-08-31 16:40:43,659][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_REMOVE
+[DEBUG][2020-08-31 16:40:43,659][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_GET
+[DEBUG][2020-08-31 16:40:43,660][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_PUT
+[DEBUG][2020-08-31 16:40:43,660][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_REMOVE
+[DEBUG][2020-08-31 16:40:43,661][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_COMMIT
+[DEBUG][2020-08-31 16:40:43,662][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_ROLLBACK
+[DEBUG][2020-08-31 16:40:43,662][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_RECOVERY
+[DEBUG][2020-08-31 16:40:43,663][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: CLUSTER_EVENT
+[DEBUG][2020-08-31 16:40:43,664][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: NONSTOP
+[DEBUG][2020-08-31 16:40:43,670][net.sf.ehcache.Cache]Initialised cache: HelloWorldCache
+[DEBUG][2020-08-31 16:40:43,671][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured. Skipping for 'HelloWorldCache'.
+[DEBUG][2020-08-31 16:40:43,671][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured for defaultCache. Skipping for 'HelloWorldCache'.
+[DEBUG][2020-08-31 16:43:38,394][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from file: .\src\main\resources\ehcache.xml
+[DEBUG][2020-08-31 16:43:38,398][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-08-31 16:43:38,475][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-08-31 16:43:38,477][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-08-31 16:43:38,479][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-08-31 16:43:38,496][net.sf.ehcache.CacheManager]Creating new CacheManager with config file: ./src/main/resources/ehcache.xml
+[DEBUG][2020-08-31 16:43:38,499][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-08-31 16:43:38,508][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:43:39,008][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:43:39,009][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:43:39,009][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:43:39,018][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:43:39,018][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:43:39,018][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:43:39,033][net.sf.ehcache.store.MemoryStore]Initialized net.sf.ehcache.store.MemoryStore for CacheTest
+[DEBUG][2020-08-31 16:43:39,062][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+[DEBUG][2020-08-31 16:43:39,064][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+[DEBUG][2020-08-31 16:43:39,064][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE
+[DEBUG][2020-08-31 16:43:39,065][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE_BYTES
+[DEBUG][2020-08-31 16:43:39,065][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+[DEBUG][2020-08-31 16:43:39,066][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: REMOTE_SIZE
+[DEBUG][2020-08-31 16:43:39,066][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+[DEBUG][2020-08-31 16:43:39,077][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_GET
+[DEBUG][2020-08-31 16:43:39,078][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_PUT
+[DEBUG][2020-08-31 16:43:39,079][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_REMOVE
+[DEBUG][2020-08-31 16:43:39,079][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_GET
+[DEBUG][2020-08-31 16:43:39,079][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_PUT
+[DEBUG][2020-08-31 16:43:39,080][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_REMOVE
+[DEBUG][2020-08-31 16:43:39,081][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_COMMIT
+[DEBUG][2020-08-31 16:43:39,082][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_ROLLBACK
+[DEBUG][2020-08-31 16:43:39,082][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_RECOVERY
+[DEBUG][2020-08-31 16:43:39,083][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: CLUSTER_EVENT
+[DEBUG][2020-08-31 16:43:39,084][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: NONSTOP
+[DEBUG][2020-08-31 16:43:39,091][net.sf.ehcache.Cache]Initialised cache: CacheTest
+[DEBUG][2020-08-31 16:43:39,091][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured. Skipping for 'CacheTest'.
+[DEBUG][2020-08-31 16:43:39,091][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured for defaultCache. Skipping for 'CacheTest'.
+[DEBUG][2020-08-31 16:44:26,164][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from file: .\src\main\resources\ehcache.xml
+[DEBUG][2020-08-31 16:44:26,167][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-08-31 16:44:26,251][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-08-31 16:44:26,254][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-08-31 16:44:26,257][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-08-31 16:44:26,276][net.sf.ehcache.CacheManager]Creating new CacheManager with config file: ./src/main/resources/ehcache.xml
+[DEBUG][2020-08-31 16:44:26,278][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-08-31 16:44:26,287][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:44:26,797][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:44:26,797][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:44:26,797][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:44:26,803][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:44:26,804][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:44:26,804][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:44:26,821][net.sf.ehcache.store.MemoryStore]Initialized net.sf.ehcache.store.MemoryStore for CacheTest
+[DEBUG][2020-08-31 16:44:26,850][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+[DEBUG][2020-08-31 16:44:26,852][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+[DEBUG][2020-08-31 16:44:26,853][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE
+[DEBUG][2020-08-31 16:44:26,853][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE_BYTES
+[DEBUG][2020-08-31 16:44:26,853][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+[DEBUG][2020-08-31 16:44:26,854][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: REMOTE_SIZE
+[DEBUG][2020-08-31 16:44:26,854][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+[DEBUG][2020-08-31 16:44:26,864][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_GET
+[DEBUG][2020-08-31 16:44:26,864][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_PUT
+[DEBUG][2020-08-31 16:44:26,865][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_REMOVE
+[DEBUG][2020-08-31 16:44:26,865][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_GET
+[DEBUG][2020-08-31 16:44:26,866][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_PUT
+[DEBUG][2020-08-31 16:44:26,866][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_REMOVE
+[DEBUG][2020-08-31 16:44:26,866][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_COMMIT
+[DEBUG][2020-08-31 16:44:26,867][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_ROLLBACK
+[DEBUG][2020-08-31 16:44:26,867][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_RECOVERY
+[DEBUG][2020-08-31 16:44:26,868][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: CLUSTER_EVENT
+[DEBUG][2020-08-31 16:44:26,869][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: NONSTOP
+[DEBUG][2020-08-31 16:44:26,875][net.sf.ehcache.Cache]Initialised cache: CacheTest
+[DEBUG][2020-08-31 16:44:26,875][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured. Skipping for 'CacheTest'.
+[DEBUG][2020-08-31 16:44:26,875][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured for defaultCache. Skipping for 'CacheTest'.
+[DEBUG][2020-08-31 16:45:45,210][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from file: .\src\main\resources\ehcache.xml
+[DEBUG][2020-08-31 16:45:45,214][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-08-31 16:45:45,295][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-08-31 16:45:45,298][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-08-31 16:45:45,300][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-08-31 16:45:45,314][net.sf.ehcache.CacheManager]Creating new CacheManager with config file: ./src/main/resources/ehcache.xml
+[DEBUG][2020-08-31 16:45:45,316][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-08-31 16:45:45,325][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:45:45,852][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:45:45,852][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:45:45,852][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:45:45,860][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:45:45,860][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:45:45,861][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:45:45,876][net.sf.ehcache.store.MemoryStore]Initialized net.sf.ehcache.store.MemoryStore for CacheTest
+[DEBUG][2020-08-31 16:45:45,903][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+[DEBUG][2020-08-31 16:45:45,906][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+[DEBUG][2020-08-31 16:45:45,907][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE
+[DEBUG][2020-08-31 16:45:45,907][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE_BYTES
+[DEBUG][2020-08-31 16:45:45,908][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+[DEBUG][2020-08-31 16:45:45,908][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: REMOTE_SIZE
+[DEBUG][2020-08-31 16:45:45,909][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+[DEBUG][2020-08-31 16:45:45,923][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_GET
+[DEBUG][2020-08-31 16:45:45,923][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_PUT
+[DEBUG][2020-08-31 16:45:45,924][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_REMOVE
+[DEBUG][2020-08-31 16:45:45,925][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_GET
+[DEBUG][2020-08-31 16:45:45,925][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_PUT
+[DEBUG][2020-08-31 16:45:45,926][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_REMOVE
+[DEBUG][2020-08-31 16:45:45,930][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_COMMIT
+[DEBUG][2020-08-31 16:45:45,931][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_ROLLBACK
+[DEBUG][2020-08-31 16:45:45,931][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_RECOVERY
+[DEBUG][2020-08-31 16:45:45,932][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: CLUSTER_EVENT
+[DEBUG][2020-08-31 16:45:45,933][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: NONSTOP
+[DEBUG][2020-08-31 16:45:45,937][net.sf.ehcache.Cache]Initialised cache: CacheTest
+[DEBUG][2020-08-31 16:45:45,937][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured. Skipping for 'CacheTest'.
+[DEBUG][2020-08-31 16:45:45,937][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured for defaultCache. Skipping for 'CacheTest'.
+[DEBUG][2020-08-31 16:48:34,640][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from file: .\src\main\resources\ehcache.xml
+[DEBUG][2020-08-31 16:48:34,644][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-08-31 16:48:34,716][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-08-31 16:48:34,720][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-08-31 16:48:34,723][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-08-31 16:48:34,742][net.sf.ehcache.CacheManager]Creating new CacheManager with config file: ./src/main/resources/ehcache.xml
+[DEBUG][2020-08-31 16:48:34,744][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-08-31 16:48:34,754][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:35,280][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:35,280][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:48:35,281][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:35,289][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:35,289][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:48:35,289][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:35,306][net.sf.ehcache.store.MemoryStore]Initialized net.sf.ehcache.store.MemoryStore for CacheTest
+[DEBUG][2020-08-31 16:48:35,339][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+[DEBUG][2020-08-31 16:48:35,342][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+[DEBUG][2020-08-31 16:48:35,343][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE
+[DEBUG][2020-08-31 16:48:35,343][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE_BYTES
+[DEBUG][2020-08-31 16:48:35,344][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+[DEBUG][2020-08-31 16:48:35,344][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: REMOTE_SIZE
+[DEBUG][2020-08-31 16:48:35,345][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+[DEBUG][2020-08-31 16:48:35,360][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_GET
+[DEBUG][2020-08-31 16:48:35,361][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_PUT
+[DEBUG][2020-08-31 16:48:35,362][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_REMOVE
+[DEBUG][2020-08-31 16:48:35,362][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_GET
+[DEBUG][2020-08-31 16:48:35,362][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_PUT
+[DEBUG][2020-08-31 16:48:35,363][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_REMOVE
+[DEBUG][2020-08-31 16:48:35,363][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_COMMIT
+[DEBUG][2020-08-31 16:48:35,364][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_ROLLBACK
+[DEBUG][2020-08-31 16:48:35,364][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_RECOVERY
+[DEBUG][2020-08-31 16:48:35,365][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: CLUSTER_EVENT
+[DEBUG][2020-08-31 16:48:35,365][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: NONSTOP
+[DEBUG][2020-08-31 16:48:35,370][net.sf.ehcache.Cache]Initialised cache: CacheTest
+[DEBUG][2020-08-31 16:48:35,370][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured. Skipping for 'CacheTest'.
+[DEBUG][2020-08-31 16:48:35,370][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured for defaultCache. Skipping for 'CacheTest'.
+[DEBUG][2020-08-31 16:48:43,009][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from file: .\src\main\resources\ehcache.xml
+[DEBUG][2020-08-31 16:48:43,012][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-08-31 16:48:43,086][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-08-31 16:48:43,089][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-08-31 16:48:43,092][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-08-31 16:48:43,109][net.sf.ehcache.CacheManager]Creating new CacheManager with config file: ./src/main/resources/ehcache.xml
+[DEBUG][2020-08-31 16:48:43,110][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-08-31 16:48:43,119][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:43,645][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:43,645][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:48:43,646][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:43,652][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:43,652][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:48:43,653][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:43,666][net.sf.ehcache.store.MemoryStore]Initialized net.sf.ehcache.store.MemoryStore for CacheTest
+[DEBUG][2020-08-31 16:48:43,698][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+[DEBUG][2020-08-31 16:48:43,700][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+[DEBUG][2020-08-31 16:48:43,701][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE
+[DEBUG][2020-08-31 16:48:43,702][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE_BYTES
+[DEBUG][2020-08-31 16:48:43,702][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+[DEBUG][2020-08-31 16:48:43,702][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: REMOTE_SIZE
+[DEBUG][2020-08-31 16:48:43,703][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+[DEBUG][2020-08-31 16:48:43,715][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_GET
+[DEBUG][2020-08-31 16:48:43,716][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_PUT
+[DEBUG][2020-08-31 16:48:43,717][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_REMOVE
+[DEBUG][2020-08-31 16:48:43,718][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_GET
+[DEBUG][2020-08-31 16:48:43,718][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_PUT
+[DEBUG][2020-08-31 16:48:43,719][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_REMOVE
+[DEBUG][2020-08-31 16:48:43,719][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_COMMIT
+[DEBUG][2020-08-31 16:48:43,720][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_ROLLBACK
+[DEBUG][2020-08-31 16:48:43,720][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_RECOVERY
+[DEBUG][2020-08-31 16:48:43,721][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: CLUSTER_EVENT
+[DEBUG][2020-08-31 16:48:43,721][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: NONSTOP
+[DEBUG][2020-08-31 16:48:43,726][net.sf.ehcache.Cache]Initialised cache: CacheTest
+[DEBUG][2020-08-31 16:48:43,727][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured. Skipping for 'CacheTest'.
+[DEBUG][2020-08-31 16:48:43,727][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured for defaultCache. Skipping for 'CacheTest'.
+[DEBUG][2020-08-31 16:48:58,856][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from file: .\src\main\resources\ehcache.xml
+[DEBUG][2020-08-31 16:48:58,859][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-08-31 16:48:58,931][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-08-31 16:48:58,934][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-08-31 16:48:58,936][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-08-31 16:48:58,955][net.sf.ehcache.CacheManager]Creating new CacheManager with config file: ./src/main/resources/ehcache.xml
+[DEBUG][2020-08-31 16:48:58,957][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-08-31 16:48:58,966][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:59,514][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:59,515][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:48:59,515][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:59,523][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:59,523][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-08-31 16:48:59,523][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-08-31 16:48:59,539][net.sf.ehcache.store.MemoryStore]Initialized net.sf.ehcache.store.MemoryStore for CacheTest
+[DEBUG][2020-08-31 16:48:59,571][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+[DEBUG][2020-08-31 16:48:59,573][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+[DEBUG][2020-08-31 16:48:59,573][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE
+[DEBUG][2020-08-31 16:48:59,574][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE_BYTES
+[DEBUG][2020-08-31 16:48:59,574][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+[DEBUG][2020-08-31 16:48:59,575][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: REMOTE_SIZE
+[DEBUG][2020-08-31 16:48:59,575][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+[DEBUG][2020-08-31 16:48:59,588][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_GET
+[DEBUG][2020-08-31 16:48:59,589][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_PUT
+[DEBUG][2020-08-31 16:48:59,589][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_REMOVE
+[DEBUG][2020-08-31 16:48:59,590][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_GET
+[DEBUG][2020-08-31 16:48:59,590][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_PUT
+[DEBUG][2020-08-31 16:48:59,591][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_REMOVE
+[DEBUG][2020-08-31 16:48:59,591][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_COMMIT
+[DEBUG][2020-08-31 16:48:59,592][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_ROLLBACK
+[DEBUG][2020-08-31 16:48:59,592][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_RECOVERY
+[DEBUG][2020-08-31 16:48:59,593][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: CLUSTER_EVENT
+[DEBUG][2020-08-31 16:48:59,594][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: NONSTOP
+[DEBUG][2020-08-31 16:48:59,600][net.sf.ehcache.Cache]Initialised cache: CacheTest
+[DEBUG][2020-08-31 16:48:59,601][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured. Skipping for 'CacheTest'.
+[DEBUG][2020-08-31 16:48:59,601][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured for defaultCache. Skipping for 'CacheTest'.
+[DEBUG][2020-09-02 19:03:53,289][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from file: .\src\main\resources\ehcache.xml
+[DEBUG][2020-09-02 19:03:53,292][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-09-02 19:03:53,434][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-09-02 19:03:53,437][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-09-02 19:03:53,439][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-09-02 19:03:53,497][net.sf.ehcache.CacheManager]Creating new CacheManager with config file: ./src/main/resources/ehcache.xml
+[DEBUG][2020-09-02 19:03:53,501][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-09-02 19:03:53,549][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-09-04 09:36:15,906][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from URL: file:/D:/justForTest/target/classes/ehcache.xml
+[DEBUG][2020-09-04 09:36:15,919][net.sf.ehcache.config.ConfigurationFactory]Configuring ehcache from InputStream
+[DEBUG][2020-09-04 09:36:16,201][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xmlns:xsi
+[DEBUG][2020-09-04 09:36:16,204][net.sf.ehcache.config.BeanHandler]Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+[DEBUG][2020-09-04 09:36:16,207][net.sf.ehcache.config.DiskStoreConfiguration]Disk Store Path: C:\Users\uxdb\AppData\Local\Temp\/ehcache
+[DEBUG][2020-09-04 09:36:16,327][net.sf.ehcache.CacheManager]Creating new CacheManager with config URL: file:/D:/justForTest/target/classes/ehcache.xml
+[DEBUG][2020-09-04 09:36:16,328][net.sf.ehcache.util.PropertyUtil]propertiesString is null.
+[DEBUG][2020-09-04 09:36:16,390][net.sf.ehcache.config.ConfigurationHelper]No CacheManagerEventListenerFactory class specified. Skipping...
+[DEBUG][2020-09-04 09:36:17,001][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-09-04 09:36:17,002][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-09-04 09:36:17,002][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-09-04 09:36:17,008][net.sf.ehcache.Cache]No BootstrapCacheLoaderFactory class specified. Skipping...
+[DEBUG][2020-09-04 09:36:17,008][net.sf.ehcache.Cache]CacheWriter factory not configured. Skipping...
+[DEBUG][2020-09-04 09:36:17,009][net.sf.ehcache.config.ConfigurationHelper]No CacheExceptionHandlerFactory class specified. Skipping...
+[DEBUG][2020-09-04 09:36:17,026][net.sf.ehcache.store.MemoryStore]Initialized net.sf.ehcache.store.MemoryStore for CacheTest
+[DEBUG][2020-09-04 09:36:17,075][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+[DEBUG][2020-09-04 09:36:17,078][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+[DEBUG][2020-09-04 09:36:17,079][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE
+[DEBUG][2020-09-04 09:36:17,079][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LOCAL_DISK_SIZE_BYTES
+[DEBUG][2020-09-04 09:36:17,079][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+[DEBUG][2020-09-04 09:36:17,080][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: REMOTE_SIZE
+[DEBUG][2020-09-04 09:36:17,080][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+[DEBUG][2020-09-04 09:36:17,092][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_GET
+[DEBUG][2020-09-04 09:36:17,093][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_PUT
+[DEBUG][2020-09-04 09:36:17,094][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: OFFHEAP_REMOVE
+[DEBUG][2020-09-04 09:36:17,094][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_GET
+[DEBUG][2020-09-04 09:36:17,095][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_PUT
+[DEBUG][2020-09-04 09:36:17,095][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: DISK_REMOVE
+[DEBUG][2020-09-04 09:36:17,096][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_COMMIT
+[DEBUG][2020-09-04 09:36:17,096][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_ROLLBACK
+[DEBUG][2020-09-04 09:36:17,097][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: XA_RECOVERY
+[DEBUG][2020-09-04 09:36:17,097][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: CLUSTER_EVENT
+[DEBUG][2020-09-04 09:36:17,098][net.sf.ehcache.statistics.extended.ExtendedStatisticsImpl]Mocking Operation Statistic: NONSTOP
+[DEBUG][2020-09-04 09:36:17,103][net.sf.ehcache.Cache]Initialised cache: CacheTest
+[DEBUG][2020-09-04 09:36:17,103][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured. Skipping for 'CacheTest'.
+[DEBUG][2020-09-04 09:36:17,103][net.sf.ehcache.config.ConfigurationHelper]CacheDecoratorFactory not configured for defaultCache. Skipping for 'CacheTest'.

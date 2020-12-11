@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SNMP管理站">
+    <output-path>$PROJECT_DIR$/out/artifacts/SNMP</output-path>
+    <root id="archive" name="SNMP管理站.jar">
+      <element id="module-output" name="justForTest" />
+    </root>
+  </artifact>
+</component>

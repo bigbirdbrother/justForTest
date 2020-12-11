@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="http://ehcache.org/ehcache.xsd">
+
+    <!-- 磁盘缓存位置  -->
+    <diskStore path="java.io.tmpdir/ehcache"/>
+
+    <!-- 默认缓存 -->
+    <defaultCache
+            maxEntriesLocalHeap="10000"
+            eternal="false"
+            timeToIdleSeconds="120"
+            timeToLiveSeconds="120"
+            maxEntriesLocalDisk="10000000"
+            diskExpiryThreadIntervalSeconds="120"
+            memoryStoreEvictionPolicy="LRU">
+        <persistence strategy="localTempSwap"/>
+    </defaultCache>
+
+    <!-- 创建一个缓存,名字指定为CacheTest,待会儿getCache的时候会用到 -->
+<!--    name： Cache的名称，必须是唯一的-->
+    <cache name="CacheTest"
+           maxElementsInMemory="1000"
+           eternal="false"
+           timeToIdleSeconds="5"
+           timeToLiveSeconds="5"
+           overflowToDisk="false"
+           memoryStoreEvictionPolicy="LRU"/>
+<!--    只有在eternal为false时，这2个属性才有效-->
+<!--    timeToIdleSeconds="5" 最后一次访问时间到缓存失效的时间间隔, 单位为秒(s)-->
+<!--    timeToLiveSeconds="5" 缓存自创建起能够存活的最长时间，单位为秒(s)-->
+<!--    overflowToDisk： 如果内存中数据超过内存限制，是否要缓存到磁盘上。-->
+
+
+</ehcache>
